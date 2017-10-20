@@ -1,0 +1,23 @@
+{
+    "name": "jiboule/ddump",
+    "type": "package",
+    "version": "1.0.0",
+    "description": "Dump your variables and stop the execution of the script.",
+    "keywords": ["dump", "debug"],
+    "homepage": "https://github.com/jiboule/ddump.git",
+    "authors": [
+        {
+            "name": "Jiboule",
+            "email": "jbcadot@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "symfony/var-dumper": "3.4.0-BETA1"
+    },
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
+    }
+}
