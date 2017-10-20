@@ -5,6 +5,7 @@
     "description": "Dump your variables and stop the execution of the script.",
     "keywords": ["dump", "debug"],
     "homepage": "https://github.com/jiboule/ddump.git",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jiboule",
