@@ -1,7 +1,7 @@
 {
     "name": "jiboule/ddump",
     "type": "package",
-    "version": "1.0.4",
+    "version": "1.1.0",
     "description": "Dump your variables and stop the execution of the script.",
     "keywords": ["dump", "debug"],
     "homepage": "https://github.com/jiboule/ddump.git",
