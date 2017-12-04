@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "5a5ca14dd032ad3bbf6354b2f014fa2e",
+    "content-hash": "59d3010bc297ccd77c8ec569d3aa41a0",
     "packages": [
         {
             "name": "symfony/polyfill-mbstring",
@@ -67,16 +67,16 @@
         },
         {
             "name": "symfony/var-dumper",
-            "version": "v3.4.0-BETA1",
+            "version": "v3.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/var-dumper.git",
-                "reference": "41c9a132b8f96797e750ccb50d1064aab5b16d93"
+                "reference": "ec650a975a8e04e0c114d35eab732981243db3a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/41c9a132b8f96797e750ccb50d1064aab5b16d93",
-                "reference": "41c9a132b8f96797e750ccb50d1064aab5b16d93",
+                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/ec650a975a8e04e0c114d35eab732981243db3a2",
+                "reference": "ec650a975a8e04e0c114d35eab732981243db3a2",
                 "shasum": ""
             },
             "require": {
@@ -132,17 +132,17 @@
                 "debug",
                 "dump"
             ],
-            "time": "2017-10-10T17:27:52+00:00"
+            "time": "2017-11-30T14:59:23+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "symfony/var-dumper": 10
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=5.6"
+    },
     "platform-dev": []
 }
